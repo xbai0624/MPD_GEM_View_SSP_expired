@@ -1,0 +1,10 @@
+viewer
+Rootfiles/
+gem/obj/
+gem/moc/
+decoder/obj/
+decoder/moc/
+gui/obj/
+gui/moc/
+fadc/obj/
+fadc/moc/
