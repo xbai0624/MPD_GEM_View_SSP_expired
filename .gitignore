@@ -2,6 +2,7 @@ viewer
 Rootfiles/
 gem/obj/
 gem/moc/
+gem/lib/
 decoder/obj/
 decoder/moc/
 gui/obj/
