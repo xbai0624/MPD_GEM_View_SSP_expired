@@ -5,6 +5,7 @@ gem/moc/
 gem/lib/
 decoder/obj/
 decoder/moc/
+decoder/lib/
 gui/obj/
 gui/moc/
 fadc/obj/
